@@ -1,0 +1,10 @@
+.app {
+    text-align: center;
+    padding: 20px;
+}
+
+.pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
